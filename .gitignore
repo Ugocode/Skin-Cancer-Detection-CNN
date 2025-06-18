@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Model weights and checkpoints
+*.h5
+*.hdf5
+*.ckpt
+
+# Python egg
+*.egg-info/
+*.egg
+
+# PIP files
+pip-log.txt
+
+#this file
+melanoma_cancer_dataset
