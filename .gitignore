@@ -43,3 +43,19 @@ pip-log.txt
 
 #this file
 melanoma_cancer_dataset
+
+venv/
+*.h5
+*.ckpt
+*.pth
+*.zip
+*.tar.gz
+*.csv
+*.ipynb_checkpoints/
+
+# Ignore dataset
+data/
+*.csv
+*.zip
+*.jpg
+*.png
